@@ -1,2 +1,4 @@
 I am currently 2nd year stdudent  from Gayatri vidya parishad college of engineering(A) visakhapatnam.                                      
-      I have the skills and abilities that required for this hackthon becauses of my previous experinced projects on computer vision ,deep learning,Machine learning.This link my similar project that done https://github.com/sumanth13131/traffic-sign-detection
+      I have the skills and abilities that required for this hackthon becauses of my previous experinced projects on computer vision ,deep learning,Machine learning.This link is my similar project that  I did https://github.com/sumanth13131/traffic-sign-detection                      
+This is my proposal for pipeline for problem :- https://github.com/sumanth13131/Dockship/blob/master/proposal.md                               Through this hackthon journey i can encounter the problems that are faced, this may increases my confident level of doing projects.
+By this hackthon i can also gain industrial level needs this exerience may helps in my future.--thank you.
