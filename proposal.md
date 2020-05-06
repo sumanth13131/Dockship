@@ -1,2 +1,2 @@
 <h2>PROJECT PROPOSAL</h2>
-<img src="https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detection_phases.png">
+<img src="https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detection_phases.png" height=400px width=400px>
