@@ -1,1 +1,1 @@
-<h1 style="text-align:center">PROJECT PROPOSAL</h1>
+<h2>PROJECT PROPOSAL</h2>
